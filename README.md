@@ -10,5 +10,4 @@ These projects document some of what I have learned and some of the topics that 
 
 | Projects                         |   Description   |
 |----------------------------------|-----------------|
-| [Python-Min-Project](https://github.com/sunyufei92/Python-Min-Project) | This project primarily serves to gather various small projects that I have accumulated during my daily study of Python. |
-| [Pair-Trading-With-Python](https://github.com/sunyufei92/Pair-Trading-With-Python) | This project focuses on collecting, organizing, and enhancing Python code and theoretical knowledge related to pair trading, along with incorporating some of my personal work.|
+| [Exercise 1.1](https://github.com/sunyufei92/Mathematical-Finance/tree/main/book%20-%20Stochastic%20Calculus%20for%20Finance%20I%2C%20Steven%20E.%20Shreve/Chapter%201%20The%20Binomial%20No-Arbitrage%20Pricing%20Model%20-%20Solutions%20for%20Exercises) | This project primarily serves to gather various small projects that I have accumulated during my daily study of Python. |
