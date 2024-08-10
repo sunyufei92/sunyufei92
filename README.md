@@ -8,6 +8,6 @@ I am a **PhD student** specializing in pairs trading, leveraging both machine le
 ### About repository projects
 These projects document some of what I have learned and some of the topics that interest me so far.
 
-| Projects                         |   Description   |
+| Contents                         |   Description   |
 |----------------------------------|-----------------|
 | [Exercise 1.1](https://github.com/sunyufei92/Mathematical-Finance/tree/main/book%20-%20Stochastic%20Calculus%20for%20Finance%20I%2C%20Steven%20E.%20Shreve/Chapter%201%20The%20Binomial%20No-Arbitrage%20Pricing%20Model%20-%20Solutions%20for%20Exercises) | - |
