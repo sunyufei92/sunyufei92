@@ -10,7 +10,7 @@ These projects document some of what I have learned and some of the topics that 
 
 | Projects                                                     | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Python-Min-Project](https://github.com/sunyufei92/Python-Min-Project) | This project primarily serves to gather various small projects that I have accumulated during my daily study of Python. |
+| [Python-Mini-Project](https://github.com/sunyufei92/Python-Mini-Project) | This project primarily serves to gather various small projects that I have accumulated during my daily study of Python. |
 | [Pair-Trading-With-Python](https://github.com/sunyufei92/Pair-Trading-With-Python) | This project focuses on collecting, organizing, and enhancing Python code and theoretical knowledge related to pair trading, along with incorporating some of my personal work. |
 | [Mathematical-Finance](https://github.com/sunyufei92/Mathematical-Finance/tree/main) | This project will document content related to financial mathematics, including homework assignments from the books, codes, key topics, and more. |
 | [LeetCode](https://github.com/sunyufei92/LeetCode)           | This project primarily serves as a repository for my ideas and solutions to LeetCode problems. |
