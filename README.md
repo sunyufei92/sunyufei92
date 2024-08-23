@@ -2,7 +2,7 @@
 ## I am Sun Yufei, a life-lover. Welcome to my GitHub!
 
 ### About me
-I am a **PhD student** specializing in pairs trading, leveraging both machine learning and traditional methods. I have three years of experience working as a **software testing engineer** and have also ventured into entrepreneurship by starting my own business. I aspire to pursue a career in finance in the future. The reason I use GitHub is that I believe **everything can be GitHub**.
+I am a **Ph.D. student** specializing in pairs trading, leveraging both machine learning and traditional methods. I have three years of experience working as a **software testing engineer** and have also ventured into entrepreneurship by starting my own business. I aspire to pursue a career in finance in the future. The reason I use GitHub is that I believe **everything can be GitHub**.
 
 
 ### About repository projects
